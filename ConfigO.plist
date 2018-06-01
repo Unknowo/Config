@@ -17,9 +17,9 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.sljgame.qipai</string>
+                    <string>com.XXX.XXX</string>
                     <key>bundle-version</key>
-                    <string>1.0.0.0001</string>
+                    <string>1.00</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>releaseNotes</key>
